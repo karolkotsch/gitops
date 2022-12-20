@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.lesshst
+.motd_shown
+.profile
+.ssh/
+.sudo_as_admin_successful
+.viminfo
+.cache
+.config
+.kube
